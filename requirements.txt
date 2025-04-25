@@ -1,6 +1,0 @@
-streamlit
-geopandas
-osmnx
-folium
-streamlit-folium
-shapely
